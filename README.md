@@ -53,11 +53,7 @@ Este é um projeto simples que consiste em um formulário para selecionar um est
 
 Os testes de integração são realizados com o Cypress. Para executar os testes, execute o seguinte comando:
 ```
-npm run test
-```
-ou
-```
-yarn test
+npm run cypress:open
 ```
 
 ## Contribuição
