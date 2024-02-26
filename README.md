@@ -15,7 +15,7 @@ Este é um projeto simples que consiste em um formulário para selecionar um est
 
 - React
 - Material-UI
-- Cypress (para testes de integração)
+- Cypress 
 
 ## Instalação
 
